@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+.form{
+  background-color: #ff9900;
+  display: flex;
+
+}
+
+.form1{
+  background-color: white;
+  display: inline-block;
+  margin: 10px;
+
+}
+.formheader{
+  display: flex;
+  background-color: #783f04;
+  align-items: center;
+  justify-content: space-around;
+  color: white;
+}
+.parent{
+  border: black solid 2px;
+  height: 539px;
+  width: 700px;
+}
+.parent1{
+  border: black solid 2px;
+  height: 539px;
+  width: 700px;
+  background-color: #ff9900;
+}
+.wrapper{
+  margin: 0 auto;
+  max-width: 65%;
+}
+.crewbtn{
+  text-decoration: none;
+  color: aliceblue;
+  background-color: #085394;
+}
+.link{
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.dele{
+  background-color :#cf2a27;
+}
